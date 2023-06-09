@@ -90,7 +90,8 @@ console.log(number); // 123
 ## 10. Objetos y arrays: Declara una variable como un objeto con algunas propiedades y un array con algunos elementos. Luego, intenta agregar, modificar y eliminar propiedades y elementos.
 
 ``` js
-let persona = {
+let persona = 
+{
   nombre: "Oscar",
   edad: 22,
   hobbies: ["videojuegos", "música", "programar"]
